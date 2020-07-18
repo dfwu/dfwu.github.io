@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Danfeng Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Danfeng Wu"
 description              : &description "My personal website"
 url                      : https://dfwu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
