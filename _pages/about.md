@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My wonderful site"
+title: "Danfeng Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
