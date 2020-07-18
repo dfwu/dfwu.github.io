@@ -3,10 +3,7 @@ author: dfwu
 comments: true
 date: 2020-02-08 23:11:24+00:00
 layout: post
-link: https://dfwu.wordpress.com/2020/02/08/orthography/
-slug: orthography
 title: The point of a written language is not to record speech
-wordpress_id: 157
 categories:
 - Orthography
 - Prosody
