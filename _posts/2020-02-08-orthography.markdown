@@ -1,12 +1,8 @@
 ---
 author: dfwu
 comments: true
-date: 2020-02-08 23:11:24+00:00
-layout: post
+date: 2020-02-08
 title: The point of a written language is not to record speech
-categories:
-- Orthography
-- Prosody
 ---
 
 What’s the point of written language (aka orthography)? Assuming it is a human invention, why was it created? A simple assumption is that it records spoken language, so that information can be transmitted in more permanent and replicable ways. A reader who sees the written text can reconstruct the speech in the physical absence of the speaker. This makes sense conceptually because we know that in a spoken language, information is generally transmitted through speech. Then any written form that captures the uttered sounds in speech can transmit the information. This idea also has its empirical support: all written languages in the world postdate their spoken counterparts, and are “glottographic” - they all record uttered sounds with symbols.
