@@ -1,0 +1,97 @@
+---
+author: dfwu
+comments: true
+date: 2020-01-11 05:36:46+00:00
+layout: post
+link: https://dfwu.wordpress.com/2020/01/11/lsa2020/
+slug: lsa2020
+title: LSA 2020 Highlights
+wordpress_id: 98
+categories:
+- Prosody
+- Syntax
+---
+
+I just came back from the [LSA 2020 Annual Meeting](https://www.linguisticsociety.org/event/lsa-2020-annual-meeting) in New Orleans, and here are some (but not all)1 of the talks / posters I found interesting and why
+<!-- more -->
+
+:
+
+
+
+
+
+  * Sluicing with complement coercion: An argument for focus-based semantic identity (Hadas Kotek)
+    * Kotek found that some speakers judge sentences like this one to be grammatical (through a Facebook thread!): "John is an author, and Bill is a reader. John started a novel, and Bill did too." with the (non-joke) reading that "John started writing a novel, and Bill started reading a novel."
+    * She claims that such examples pose a challenge to one account of ellipsis (Q-equivalence accounts), but can be accommodated within another account (focus-based account).
+    * _My thought: Nominals can have much richer meanings than just nominals._
+      * For example, Baker and Grimshaw have observed that "the time" denotes a question in "She asked the time."
+      * In the sentences observed by Kotek, maybe the object nominal denotes a richer meaning as well. For example, "the novel" may mean "any event that involves the novel", which is compatible with both a writing event and a reading event, and creates sufficient semantic identity to license ellipsis.
+      * Some evidence for the idea that "the novel" can mean "any event that involves the novel": assuming the subject of "takes five weeks" has to denote an event, then the sentence "The novel takes five weeks" suggests that "the novel" may denote an event rather than just the physical novel. This evidence is not strong, however, because it may be a tough-construction with an omitted infinitival: "The novel takes five weeks (to write/read)."
+      * Not only can an _object_ denote an event that involves doing something to the object, but an _instrumental_ element can denote an event that involves doing something with that instrumental, e.g. "Don't fix the car with this wrench. This wrench takes forever." In this sentence "this wrench" denotes the event of fixing the car with this wrench.
+      * More example where a nominal has a broader meaning than just the literal nominal: "Beijing" and "Washington" in "Beijing opposes Washington's sanctions on Chinese firms."
+
+
+
+
+  * Two kinds of dislocations in Biblical Hebrew (Matthew Hewett)
+    * There are two kinds of dislocations that we know exist across languages: Hanging Topic and Left Dislocation. They are distinguished by various diagnostics. These diagnostics show that Biblical Hebrew has both kinds of dislocations.
+    * _Questions I've always had about making generalizations about dead languages, which the author handled well and clearly:_
+      * _Q: How do we know that Biblical Hebrew is not written by different speakers who speak different dialects? Then the fact that both types of dislocations are attested in Biblical Hebrew cannot be taken as indication that Biblical Hebrew allows both types, because it is also compatible with the possibility that the text is written by at least two different speakers, each of whose dialects only allows one way of dislocation._
+        * A: This is true. However, there is an interesting entailment relation synchronically and diachronically between Hanging Topic and Left Dislocation. A language that has Hanging Topic also has Left Dislocation, but not vice versa. As languages with both types of dislocation develop, they may lose Left Dislocation first, but not Hanging Topic first. Then the fact that we found evidence for Hanging Topic in Biblical Hebrew suggests that the same speaker also allows Left Dislocation.
+      * _Q: Can researchers take absence of a certain construction in a text as evidence of its ungrammaticality? Why can't such absence be accidental?_
+        * A: It may be accidental. Rigid tests are required to show that it is not a statistical accident, for example.
+
+
+
+  * Anti-pied-piping (Kenyon Branan and Michael Yoshitaka Erlewine)
+    * Anti-pied-piping refers to the phenomenon where a constituent XP is focused, but only a subpart of XP moves or has a focus particle.
+    * For example, in Miyara Yaeyaman (Ryukyuan), the focus particle may attach to the direct object of a sentence, which is ambiguous between object focus and VP focus.
+    * In Kikuyu, the direct object may undergo focus movement, which is ambiguous between object focus and VP focus.
+    * Anti-pied-piping focus particle placement can feed scrambling in Japanese (which suggests that anti-pied-piping focus particle placement is not simply post-syntactic lowering): under VP focus, the direct object, to which the focus particle is attached, can scramble on its own.
+    * It is often the element on the edge of the larger focused constituent that the focus particle attaches to. This suggests that anti-pied-piping can refer to post-syntactic properties, e.g. "edgemost".
+    * _Why I like it: these facts are just so cool!!_
+
+
+
+  * Prosodic conditioning of word order in Khoekhoegowab (Leland Kusmer)
+    * Khoekhoegowab is word final, but some tense markers precede the verb.
+    * After ruling out alternative explanations, Kusmer argues that the tense markers that precede the verb do so because they are monomoraic, and Khoekhoegowab dislikes phrases that (begin or) end in a monomoraic morpheme.
+    * _Sam Zukoff's question, which I found interesting and thoughtful:_ we know that phonology has ways to fix word-level well-formedness (_I thought of: making the vowel longer, adding a coda, etc._). Why do we displace the monomoraic morpheme in this case to fix it? Thinking in Optimality Theory terms, are there prosodically-related constraints? How do they interact with phonological constraints?
+    * _Why I like it: the talk is clear and well-organized, and the data is very cool_.
+
+
+
+  * Re-constructing massive pied-piping: An argument for non-interrogative CPs (Daniel Amy)
+    * Massive pied-piping (_MPP_) refers to optional pied-piping of a large constituent, e.g. movement of "the cover of which" in "John read the book [the cover of which]i Mary illustrated ti."
+    * While previous observations restrict MPP to non-subordinated clauses such as relative clauses, Amy claims that MPP is acceptable in complements of factive predicates like _know_ and _tell_ as well: "I know/*wonder [the poster of which pop star]i Mary hung ti in her office." & "John told/*asked Sue [the poster of which pop star]i Mary hung ti in her office."
+    * Amy thus calls for a distinction between factive complements (which allow MPP) and interrogative complements (which disallow MPP). He ties this distinction to Cable's (2010) QP-analysis and den Dikken's (2003) two-stage _wh_-agreement.
+    * _Some related issues that I find interesting:_
+      * MPP is not allowed in matrix clause questions, except when it is an echo question: "[The cover of which book]i did Mary illustrate ti?" Why are echo questions an exception? This intrigues me because I have been interested in the syntax of echo questions since Haoze Li's NELS [talk](https://nels50.mit.edu/sites/default/files/abstracts/409-Li.pdf).
+      * While factive complement clauses allow MPP, factive subject clauses don't seem as good: "It is surprising [the poster of which pop star]i Mary hung ti in her office." vs. "??/*[The poster of which pop star]i Mary hung ti in her office is surprising."
+
+
+
+
+
+  * A workspace-based analysis of adjuncts (Daniel Milway)
+    * _Warning: this is a high-level talk about frameworks of Merge and has a lot of technical details._
+    * Adjuncts are derived in parallel workspaces alongside the workspaces that derive their "hosts".
+    * To derive "Sadie sang the anthem with gusto", where "with gusto" is an adjunct modifying the VP:
+      * In Workspace 1, combine the verb and the object, and derive "sang the anthem"
+      * In Workspace 2, combine the preposition and the noun, and derive "with gusto"
+      * Then combine the products of both workspaces with tense (T) respectively, and derive "T sang the anthem" in Workspace 1, and "T with gusto" in Workspace 2
+      * Merge the products with the subject "Sadie", and derive "Sadie T sang the anthem" in Workspace 1, and "Sadie T with gusto" in Workspace 2
+      * Delete "Sadie" and "T" under identity in Workspace 2
+      * The workspaces are inherently ordered and pronounced in this order
+    * Adjunct island falls out from this analysis. Movement must occur within a workspace. If it starts in a workspace, it must end in the same workspace. Adjunct island violations violate this rule because they involve movement that starts in the workspace for the adjunct, and ends in the workspace for the "host".
+    * Parasitic gap falls out from this analysis. Parasitic gap refers to constructions where there is a gap in the "host" clause and another gap in the adjunct clause. They are legal because they involve a movement in the workspace for the adjunct, and another movement in the workspace for the "host".
+    * _Issues and why I like the talk nonetheless:_
+      * We may have to abandon the beloved notion of selection / subcategorization (at least in the workspace for the adjunct, as the above derivation shows, where tense directly merges with the PP "with gusto").
+      * Adjuncts participate in syntactic and semantic relations with their "hosts", which is difficult to capture if we build them in separate workspaces.
+      * I like the talk because adjuncts have always been a mystery and an exception to generalizations about Merge. I appreciate the courage of taking a crack at this difficult problem. While the solution is not perfect, by spelling it out, we can weigh its benefits and costs explicitly.
+
+
+
+
+[1]: The order is arbitrary and should not matter. I wish I could mention more, as there were many more interesting ones, but I am unfortunately constrained by time and memory.
