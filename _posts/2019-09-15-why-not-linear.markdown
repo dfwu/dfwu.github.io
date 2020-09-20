@@ -17,14 +17,7 @@ tags:
 - neural networks
 ---
 
-MIT Linguistics is offering a new course this semester called "Linguistics for Researchers in Computer Science, Cognitive Science, and Related Fields". As the TA, I gave an opening speech at the beginning of the first class. Here is my speech
-<!-- more -->
-
-, and I added at the end additional thoughts that weren't put into the speech:
-
-
-
-
+MIT Linguistics is offering a new course this semester called "Linguistics for Researchers in Computer Science, Cognitive Science, and Related Fields". As the TA, I gave an opening speech at the beginning of the first class. Here is my speech, and I added at the end additional thoughts that weren't put into the speech:
 
 Hi everyone! Welcome to the class. Whether your research is in Natural Language Processing, cognitive science or any other language-related topic, you may find some of these topics interesting: what do speakers know about their native language? Can we find a general theory to characterize this linguistic knowledge? How is this knowledge learned? For cognitive scientists who study language, these are the topics of primary interest. For NLPers who want to find an efficient algorithm for processing human languages, knowing about the linguistic features of human languages would be helpful, too. These are precisely the topics of this class, so you are in the right place.
 
@@ -186,19 +179,19 @@ Then how will we ever know that the neural network is not using an extremely com
 
 
 
-As I asked this to myself, I started to reflect on **how linguists came to the conclusion in the first place that human’s linguistic knowledge is hierarchical. Didn’t they draw this conclusion also based on grammaticality judgments, or more broadly, humans’ behavior that can be observed?** Why did no one challenge the linguists like I challenged the researchers of neural networks, and claimed that **humans just have an extremely complicated linear system? **
+As I asked this to myself, I started to reflect on **how linguists came to the conclusion in the first place that human’s linguistic knowledge is hierarchical. Didn’t they draw this conclusion also based on grammaticality judgments, or more broadly, humans’ behavior that can be observed?** Why did no one challenge the linguists like I challenged the researchers of neural networks, and claimed that **humans just have an extremely complicated linear system?**
 
 
 
 
 
-This might be possible, but at some point this linear system becomes so complicated that it is very unlikely that humans use it, and young children learn it. In science, if we find two hypotheses that can explain the data equally well, then researchers tend to favor the simpler one. Suppose that all humans have this bias for simplicity, and suppose that a hierarchical rule referring to the sentential “subject” is simpler than an extremely complicated linear rule,[1] then all humans will converge on the hierarchical rule. 
+This might be possible, but at some point this linear system becomes so complicated that it is very unlikely that humans use it, and young children learn it. In science, if we find two hypotheses that can explain the data equally well, then researchers tend to favor the simpler one. Suppose that all humans have this bias for simplicity, and suppose that a hierarchical rule referring to the sentential “subject” is simpler than an extremely complicated linear rule,[^1] then all humans will converge on the hierarchical rule. 
 
 
 
 
 
-**If we treat a neural network like a psychological object (a human), which is what these researchers do, then why can’t we also give up as the linear rule gets too complicated, and say the neural network can’t have chosen that? Then, it must have learned hierarchical structure. **
+**If we treat a neural network like a psychological object (a human), which is what these researchers do, then why can’t we also give up as the linear rule gets too complicated, and say the neural network can’t have chosen that? Then, it must have learned hierarchical structure.**
 
 
 
@@ -224,11 +217,6 @@ Anyway, this is my own intellectual journey at one of the CompLang talks last se
 
 But don’t feel pressured to only ask these types of questions in this class. Feel free to ask anything you want. We especially welcome clarificational questions. For example, if you hear the professor use the word VP a lot and don’t know what it means, feel free to ask. This is a new course, and we are as new to this course as you are. No question is inappropriate. By asking questions, you also help us know what works and what doesn't.
 
-
-
-
-
-[1]: Can we be sure of this though? We would need a simplicity metric, against which we can compare different rules. Then we can tell which rule is simpler: a rule that only uses linear order; or a rule that relies on hierarchical structure like trees.  
 ---------------------------
 
 
@@ -285,3 +273,6 @@ This calls for a revision to the linear hypothesis. Suppose that the linear rule
 
 
 Can you think of an example that this revised linear rule does not cover, and think of a revision to the linear rule so that it can be covered by your revision?
+
+
+[^1]: Can we be sure of this though? We would need a simplicity metric, against which we can compare different rules. Then we can tell which rule is simpler: a rule that only uses linear order; or a rule that relies on hierarchical structure like trees.  
