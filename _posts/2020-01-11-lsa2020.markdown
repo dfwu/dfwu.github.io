@@ -2,8 +2,6 @@
 author: dfwu
 comments: true
 date: 2020-01-11 05:36:46+00:00
-layout: post
-link: https://dfwu.wordpress.com/2020/01/11/lsa2020/
 slug: lsa2020
 title: LSA 2020 Highlights
 wordpress_id: 98

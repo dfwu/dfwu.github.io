@@ -2,8 +2,6 @@
 author: dfwu
 comments: true
 date: 2019-09-15 02:10:13+00:00
-layout: post
-link: https://dfwu.wordpress.com/2019/09/14/why-not-linear/
 slug: why-not-linear
 title: Why we can never be sure that a human or a neural network has a grammar that
   uses hierarchical structure

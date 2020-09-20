@@ -2,8 +2,6 @@
 author: dfwu
 comments: true
 date: 2020-01-18 01:53:31+00:00
-layout: post
-link: https://dfwu.wordpress.com/2020/01/17/coordinators/
 slug: coordinators
 title: A hunch
 wordpress_id: 121
@@ -24,7 +22,7 @@ I think a lot about what I call “coordinators” in natural languages. They ar
 
 
 
-Coordinators fascinate me because they relate to each other at a distance (they are usually not adjacent to each other, being separated by other words). Linguists study these long-distance relations because they reveal a key property of human language - it often relies on non-local, non-linear relations. In the case of coordinators, how does the grammar ensure that when one of them appears, the other must also appear? As a metaphor, how does one element signal to the other: "I'm here, and you'd better also appear"? Under what conditions must they cooccur, and why? This post talks about my speculation about what conditions their cooccurrence. 
+Coordinators fascinate me because they relate to each other at a distance (they are usually not adjacent to each other, being separated by other words). Linguists study these long-distance relations because they reveal a key property of human language - it often relies on non-local, non-linear relations. In the case of coordinators, how does the grammar ensure that when one of them appears, the other must also appear? As a metaphor, how does one element signal to the other: "I'm here, and you'd better also appear"? Under what conditions must they cooccur, and why? This post talks about my speculation about what conditions their cooccurrence.
 <!-- more -->
 
 You may still wonder why I am interested in such a narrow topic - who cares about small words like _either_ and _or_ anyway? I will tell you why at the end of this post.

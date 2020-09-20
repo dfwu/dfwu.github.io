@@ -2,7 +2,6 @@
 author: dfwu
 comments: true
 date: 2020-02-08
-permalink: /posts/2020/02/orthography
 title: The point of a written language is not to record speech
 ---
 
