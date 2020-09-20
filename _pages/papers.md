@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Papers"
 permalink: /papers/
 author_profile: true
@@ -17,12 +17,12 @@ author_profile: true
 - submitted. Island violations in stripping constructions. \[paper\]
 - under revision. Syntax of *either* in *either*...*or*... sentences. \[[paper](https://ling.auf.net/lingbuzz/004430/current.pdf?_s=72wA37mPfWIVeZUL)\]
 
-### Journal articles
+## Journal articles
 
 - accepted. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Paper_20200819_singlespaced.pdf)\]
 - 2019\. Inducing and blocking labeling. *Glossa* *4 (1)*:141. with [Shigeru Miyagawa](http://www.shigerumiyagawa.com/) and [Masatoshi Koizumi](https://www.sal.tohoku.ac.jp/en/research/researcher/profile/---id-35.html). \[[doi](https://doi.org/10.5334/gjgl.923)\]
 
-### Conference proceedings
+## Conference proceedings
 
 - to appear. *Whether* can pied-pipe. *Proceedings of NELS 50*. \[[paper](http://lingphil.mit.edu/papers/dfwu/NELS50_whether_v3.pdf)\]
 - 2020\. Durational cues to stress and phrasing are preserved post-focally in English. *Proceedings of Speech Prosody 2020*. \[superceded by this paper\]
