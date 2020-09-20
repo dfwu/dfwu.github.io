@@ -9,20 +9,13 @@ categories:
 - Syntax
 ---
 
-I think a lot about what I call “coordinators” in natural languages. They are non-local elements that nevertheless must appear together (or even appear similar in form). One example of non-local coordinators is the English disjunction coordinators _either...or..._ (as in (1a)).1 When a disjunction begins with _either_, _or_ must also appear (1b) (* indicates ungrammaticality).
-
-
-
-
+I think a lot about what I call “coordinators” in natural languages. They are non-local elements that nevertheless must appear together (or even appear similar in form). One example of non-local coordinators is the English disjunction coordinators _either...or..._ (as in (1a)).[^1] When a disjunction begins with _either_, _or_ must also appear (1b) (* indicates ungrammaticality).
 
 (1) a. Pat eats either rice or beans.  
       b. *Pat eats either rice beans.
 
-
-
-
-
 Coordinators fascinate me because they relate to each other at a distance (they are usually not adjacent to each other, being separated by other words). Linguists study these long-distance relations because they reveal a key property of human language - it often relies on non-local, non-linear relations. In the case of coordinators, how does the grammar ensure that when one of them appears, the other must also appear? As a metaphor, how does one element signal to the other: "I'm here, and you'd better also appear"? Under what conditions must they cooccur, and why? This post talks about my speculation about what conditions their cooccurrence.
+
 <!-- more -->
 
 You may still wonder why I am interested in such a narrow topic - who cares about small words like _either_ and _or_ anyway? I will tell you why at the end of this post.
@@ -43,7 +36,7 @@ To begin, let's reconsider _either...or..._. Interestingly, while _either_ canno
 
 
 
-Based on a small number of observations in English and Mandarin Chinese, I have a speculation for all coordinated constructions in all languages: **the initial coordinator is easier to be left out than the second coordinator**.2 What this means is: _for a construction, if we can drop the second coordinator but not the initial one, then there must be a version of the same construction where the initial coordinator can be dropped but not the second one._ Imagine a hypothetical language English' where (1b) is grammatical, then (2) must also be grammatical. There is no language where (1b) is grammatical, but (2) is not.
+Based on a small number of observations in English and Mandarin Chinese, I have a speculation for all coordinated constructions in all languages: **the initial coordinator is easier to be left out than the second coordinator**.[^2] What this means is: _for a construction, if we can drop the second coordinator but not the initial one, then there must be a version of the same construction where the initial coordinator can be dropped but not the second one._ Imagine a hypothetical language English' where (1b) is grammatical, then (2) must also be grammatical. There is no language where (1b) is grammatical, but (2) is not.
 
 
 
@@ -61,7 +54,7 @@ English conjunction coordinators _both_..._and_... behave in parallel to _either
 
 
 
-What is interesting about Mandarin Chinese is that it has a wider range of coordinators to study than English appears to have. For instance, Chinese has an "although...but..." construction, where _although_ and _but_ can cooccur (2a). Interestingly, only _although_ can be dropped (3b), but not _but_ (3c):3
+What is interesting about Mandarin Chinese is that it has a wider range of coordinators to study than English appears to have. For instance, Chinese has an "although...but..." construction, where _although_ and _but_ can cooccur (2a). Interestingly, only _although_ can be dropped (3b), but not _but_ (3c):[^3]
 
 
 
@@ -72,7 +65,7 @@ What is interesting about Mandarin Chinese is that it has a wider range of coord
           'Although he lost, he was very happy.'  
      b. Ta   shule, **danshi**  ta    hen    gaoxing  
          He   lost     but          he   very   happy  
-     c. ***Suiran**    ta   shule,  ta    hen    gaoxing  
+     c. **Suiran**    ta   shule,  ta    hen    gaoxing  
            Although he  lost       he   very   happy
 
 
@@ -91,7 +84,7 @@ Having examined Mandarin Chinese, we may now return to English and wonder whethe
 
 
 
-(4) a. ***Although** she lost, **but** she was happy.  
+(4) a. **Although** she lost, **but** she was happy.  
       b. **Although** she lost, she was happy.  
       c. She lost, **but** she was happy.
 
@@ -123,20 +116,20 @@ By the way, this is also why linguists are interested in these seemingly narrow 
 
 
 
-[1]: Although _either_ and _or_ do not look similar, the negated disjunction coordinators _neither_ and _nor_ do, both beginning with _n-_, which marks their negative property. In many languages, the disjunction coordinators are even identical. Polish is a language that showcases this property nicely. Its counterpart of “either...or...” is _albo_..._albo_...; its “neither...nor...” (the negative version of “either...or...”) is _ani_..._ani_...; and its “whether...or...” (the _wh_-version of “either...or...”) is _czy_..._czy_....
+[^1]: Although _either_ and _or_ do not look similar, the negated disjunction coordinators _neither_ and _nor_ do, both beginning with _n-_, which marks their negative property. In many languages, the disjunction coordinators are even identical. Polish is a language that showcases this property nicely. Its counterpart of “either...or...” is _albo_..._albo_...; its “neither...nor...” (the negative version of “either...or...”) is _ani_..._ani_...; and its “whether...or...” (the _wh_-version of “either...or...”) is _czy_..._czy_....
 
 
 
 
 
-[2]: I use the phrase _second coordinator_ (for simplicity), though I really mean _noninitial coordinator_ here. This is because sometimes there are more than two coordinated parts, e.g. _rice_, _beans_, and _bread_ in "Pat eats either rice or beans or bread." The _or_s in this sentence are noninitial coordinators, and they should be harder to omit than _either_, the initial coordinator.
+[^2]: I use the phrase _second coordinator_ (for simplicity), though I really mean _noninitial coordinator_ here. This is because sometimes there are more than two coordinated parts, e.g. _rice_, _beans_, and _bread_ in "Pat eats either rice or beans or bread." The <em>or</em>s in this sentence are noninitial coordinators, and they should be harder to omit than _either_, the initial coordinator.
 
 
 
 
 
-[3]: (3c) would be ok if we insert _que_ in the second clause, a particle that roughly means 'but':  
-(i) **Suiran**    ta   shule, ta **que**   hen   gaoxing  
-     Although he  lost     he   but    very  happy  
-I take _que_ to be a second coordinator much in the same way as _danshi_ 'but'. Then the obligatory presence of the second coordinator (_que_ or _danshi_) in this construction is still compliant to my generalization.   
-   We can also use _haishi_ 'still' instead of _que_ in (i), so _haishi_ is another second coordinator just like _que_ and _danshi_.
+[^3]: (3c) would be ok if we insert _que_ in the second clause, a particle that roughly means 'but':  
+    (i) **Suiran**    ta   shule, ta **que**   hen   gaoxing  
+         Although he  lost     he   but    very  happy  
+    I take _que_ to be a second coordinator much in the same way as _danshi_ 'but'. Then the obligatory presence of the second coordinator (_que_ or _danshi_) in this construction is still compliant to my generalization.   
+    We can also use _haishi_ 'still' instead of _que_ in (i), so _haishi_ is another second coordinator just like _que_ and _danshi_.
