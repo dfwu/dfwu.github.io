@@ -29,19 +29,19 @@ First, I will talk about how English orthography (or any existing writing system
 
 
 
-This sentence can mean two things: “The Vikings defeated their enemies” or “The Vikings persuaded their enemies.” Prosody is the only factor that distinguishes them: there is a greater break between _over_ and _their _in the former meaning than in the latter, and _over_ is more prominent in the former meaning than in the latter. Clearly English orthography does not transcribe prosody, hence creating ambiguity with texts like (1). 
+This sentence can mean two things: “The Vikings defeated their enemies” or “The Vikings persuaded their enemies.” Prosody is the only factor that distinguishes them: there is a greater break between _over_ and _their_ in the former meaning than in the latter, and _over_ is more prominent in the former meaning than in the latter. Clearly English orthography does not transcribe prosody, hence creating ambiguity with texts like (1). 
 
 
 
 
 
-While sentence-level features such as prosody are under-documented, word-level features are often over-documented. In many writing systems, words with identical pronunciation but different meanings (homophones) may have different spellings, such as _there_ and _their_ in English.1 
+While sentence-level features such as prosody are under-documented, word-level features are often over-documented. In many writing systems, words with identical pronunciation but different meanings (homophones) may have different spellings, such as _there_ and _their_ in English.[^1] 
 
 
 
 
 
-If the sole purpose of orthography is to record uttered sounds, then orthography should not bother to distinguish words with identical sounds because they are not distinguished in speech anyway. But this move makes sense if orthography is designed to avoid ambiguities, to ensure that a reader is not confused when reading a string of words. While ambiguities may arise in speech due to accidental homophony, they are avoided in writing whenever possible.2
+If the sole purpose of orthography is to record uttered sounds, then orthography should not bother to distinguish words with identical sounds because they are not distinguished in speech anyway. But this move makes sense if orthography is designed to avoid ambiguities, to ensure that a reader is not confused when reading a string of words. While ambiguities may arise in speech due to accidental homophony, they are avoided in writing whenever possible.[^2]
 
 
 
@@ -83,13 +83,13 @@ If the sole function of orthography is to record speech, we should be done now �
 
 
 
-Mandarin Chinese has a large number of homophones, even when taking tone into account. The segmental and tonal combination mǎ, for example, is ambiguous between 马 ‘horse’, 码 ‘code’, 蚂 ‘ant’, 玛 ‘agate’, and so on. Just knowing the phonological properties of the word is not enough.3 
+Mandarin Chinese has a large number of homophones, even when taking tone into account. The segmental and tonal combination mǎ, for example, is ambiguous between 马 ‘horse’, 码 ‘code’, 蚂 ‘ant’, 玛 ‘agate’, and so on. Just knowing the phonological properties of the word is not enough.[^3]
 
 
 
 
 
-To disambiguate all these meanings, let’s use the simple, dummy “radical”, numeral again. But instead of assigning numbers to tones, let’s assign numbers to the different meanings that the segments _ma _can have, say 马1 is ‘mother’, 马2 is ‘hemp’, 马3 is ‘horse’, 马4 is ‘code’, 马5 is ‘ant’, and so on. Then for a different segmental combination such as _ba _(whose segmental radical is 巴), we use the numeral radical again, so that 巴1 is ‘father’, 巴2 is ‘take’, 巴3 is ‘palladium’, and so on. We repeat this numeral assignment process for every possible segmental combination in Chinese (_pa_, _na_…).
+To disambiguate all these meanings, let’s use the simple, dummy “radical”, numeral again. But instead of assigning numbers to tones, let’s assign numbers to the different meanings that the segments _ma_ can have, say 马1 is ‘mother’, 马2 is ‘hemp’, 马3 is ‘horse’, 马4 is ‘code’, 马5 is ‘ant’, and so on. Then for a different segmental combination such as _ba_ (whose segmental radical is 巴), we use the numeral radical again, so that 巴1 is ‘father’, 巴2 is ‘take’, 巴3 is ‘palladium’, and so on. We repeat this numeral assignment process for every possible segmental combination in Chinese (_pa_, _na_…).
 
 
 
@@ -113,7 +113,7 @@ This system is actually very similar to the existing one. In the existing system
 
 
 
-Having a meaning radical also allows the learner to transfer knowledge from one segmental combination to another. For example, meaning radicals assigned to _ma_ can be reused for _ba_, so that a learner does not have to start over again. The meaning radical 口 (suggesting the character is related to mouths) can be combined with the segmental radical for _ma_, generating 吗, a sentence-final particle (it is vaguely related to mouths due to its discourse/speech-related function). It can also be combined with the segmental radical for _ba_, generating 吧, another sentence-final particle. Every character has a segmental radical, and most of them also have a meaning radical.4, 5 There are over 200 radicals in total.
+Having a meaning radical also allows the learner to transfer knowledge from one segmental combination to another. For example, meaning radicals assigned to _ma_ can be reused for _ba_, so that a learner does not have to start over again. The meaning radical 口 (suggesting the character is related to mouths) can be combined with the segmental radical for _ma_, generating 吗, a sentence-final particle (it is vaguely related to mouths due to its discourse/speech-related function). It can also be combined with the segmental radical for _ba_, generating 吧, another sentence-final particle. Every character has a segmental radical, and most of them also have a meaning radical.[^4][^5] There are over 200 radicals in total.
 
 
 
@@ -147,30 +147,12 @@ I’ve argued in this post that written language doesn’t likely serve the func
 
 
 
+[^1]: Interestingly, while English over-documents certain aspects of word-level phonology (by spelling out homophones differently), it under-documents other aspects of word-level phonology, specifically lexical stress. English stress is a lexical property, as the same combination of consonants and vowels can mean different things depending on the location of stress, e.g. the nominal use of _record_ vs. the verbal use of _record_. Clearly English writing does not specify stress placement, hence creating ambiguity with the written word _record_.
 
+[^2]: This does not always seem true, as homographs are often tolerated. These are written forms that correspond to different meanings, e.g. _lead_ in English (ambiguous between the act of directing and a metal). Unlike in writing, the different meanings of _lead_ are actually distinguished by sounds ([li:d] vs. [lɛd]), so _lead_ is a case where phonology is better at disambiguation than orthography. There are also cases where homophones are not distinguished in writing, e.g. _light_, _bank_, and _ball_, where orthography does just as poorly as phonology at disambiguation. I speculate that while the goal of orthography should be to clearly map forms to meanings, occasional failures are tolerated, especially when the meanings are different enough, and the context can usually help distinguish them. They also suggest that orthography is not perfect, a point I will briefly discuss at the end of the post. This is again why Mandarin Chinese may be a more instructive case of study: it has far more homophones than English, and presents a more challenging problem to distinguish homophones in writing. 
 
-[1]: Interestingly, while English over-documents certain aspects of word-level phonology (by spelling out homophones differently), it under-documents other aspects of word-level phonology, specifically lexical stress. English stress is a lexical property, as the same combination of consonants and vowels can mean different things depending on the location of stress, e.g. the nominal use of _record_ vs. the verbal use of _record_. Clearly English writing does not specify stress placement, hence creating ambiguity with the written word _record_.
+[^3]: One might hope that the context in which the character is used can help distinguish these homophones, but context is not always helpful. One example where contexts don’t help to disambiguate meanings is names. Chinese human names are typically two to four syllables long. Organizational names are more varied in length, but in general short as well. Each syllable has its own meaning that is represented by a character, and contributes to the meaning of the name as a whole. The contexts in which names are mentioned often do not help to distinguish exactly the meaning of each syllable. However, names are probably the first thing someone learns to write when they learn writing. 
 
+[^4]: There are two types of characters in Chinese orthography. The first consists of radicals that compose with each other in the way I outlined, such that one radical encodes segmental information, and the other encodes meaning. The second type is a pictograph that does not consist of radicals which compose in the way I outlined. For example, 耳 (ĕr) ‘ear’ is derived from the image of an ear. An interesting example of the second type is 取 (qŭ) ‘take’, which can apparently be analyzed as consisting of two radicals, 耳 (ĕr) ‘ear’ on the left and 又 (yòu) ‘right hand’ on the right. They don’t compose in the way I outlined. Instead, together they make the image of a hand grabbing an ear, which alludes to the custom of taking the ears of dead enemy soldiers. I do not consider characters like 取 decomposable into a meaning radical and a segmental radical. For the purpose of this post, I take characters like 取 to consist of just one radical, a segmental radical. This is because 取 can combine with a meaning radical like 女 ‘female’ to generate 娶 (qŭ) ‘to marry’. 
 
-
-
-
-[2]: This does not always seem true, as homographs are often tolerated. These are written forms that correspond to different meanings, e.g. _lead_ in English (ambiguous between the act of directing and a metal). Unlike in writing, the different meanings of _lead_ are actually distinguished by sounds ([li:d] vs. [lɛd]), so _lead_ is a case where phonology is better at disambiguation than orthography. There are also cases where homophones are not distinguished in writing, e.g. _light_, _bank_, and _ball_, where orthography does just as poorly as phonology at disambiguation. I speculate that while the goal of orthography should be to clearly map forms to meanings, occasional failures are tolerated, especially when the meanings are different enough, and the context can usually help distinguish them. They also suggest that orthography is not perfect, a point I will briefly discuss at the end of the post. This is again why Mandarin Chinese may be a more instructive case of study: it has far more homophones than English, and presents a more challenging problem to distinguish homophones in writing. 
-
-
-
-
-
-[3]: One might hope that the context in which the character is used can help distinguish these homophones, but context is not always helpful. One example where contexts don’t help to disambiguate meanings is names. Chinese human names are typically two to four syllables long. Organizational names are more varied in length, but in general short as well. Each syllable has its own meaning that is represented by a character, and contributes to the meaning of the name as a whole. The contexts in which names are mentioned often do not help to distinguish exactly the meaning of each syllable. However, names are probably the first thing someone learns to write when they learn writing. 
-
-
-
-
-
-[4]: There are two types of characters in Chinese orthography. The first consists of radicals that compose with each other in the way I outlined, such that one radical encodes segmental information, and the other encodes meaning. The second type is a pictograph that does not consist of radicals which compose in the way I outlined. For example, 耳 (ĕr) ‘ear’ is derived from the image of an ear. An interesting example of the second type is 取 (qŭ) ‘take’, which can apparently be analyzed as consisting of two radicals, 耳 (ĕr) ‘ear’ on the left and 又 (yòu) ‘right hand’ on the right. They don’t compose in the way I outlined. Instead, together they make the image of a hand grabbing an ear, which alludes to the custom of taking the ears of dead enemy soldiers. I do not consider characters like 取 decomposable into a meaning radical and a segmental radical. For the purpose of this post, I take characters like 取 to consist of just one radical, a segmental radical. This is because 取 can combine with a meaning radical like 女 ‘female’ to generate 娶 (qŭ) ‘to marry’. 
-
-
-
-
-
-[5]: The actual picture is more complicated than what I presented here. A segmental combination may be represented by different segmental radicals. For example, 马 and 麻 are both segmental radicals for _ma_. They may combine with the same meaning radical 口, generating different characters: 吗 and 嘛. Because both characters are sentence-final particles, and indicate the discourse property of the sentence, they share the meaning radical 口, which suggests the character has to do with mouth. Here what serves to disambiguate the two characters is in fact not the meaning radical, but the segmental radical.
+[^5]: The actual picture is more complicated than what I presented here. A segmental combination may be represented by different segmental radicals. For example, 马 and 麻 are both segmental radicals for _ma_. They may combine with the same meaning radical 口, generating different characters: 吗 and 嘛. Because both characters are sentence-final particles, and indicate the discourse property of the sentence, they share the meaning radical 口, which suggests the character has to do with mouth. Here what serves to disambiguate the two characters is in fact not the meaning radical, but the segmental radical.
