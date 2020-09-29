@@ -2,23 +2,16 @@
 author: dfwu
 comments: true
 date: 2020-01-11 05:36:46+00:00
-layout: post
-link: https://dfwu.wordpress.com/2020/01/11/lsa2020/
 slug: lsa2020
 title: LSA 2020 Highlights
+excerpt: I just came back from the LSA 2020 Annual Meeting in New Orleans, and here are some (but not all) of the talks / posters I found interesting and why.
 wordpress_id: 98
 categories:
 - Prosody
 - Syntax
 ---
 
-I just came back from the [LSA 2020 Annual Meeting](https://www.linguisticsociety.org/event/lsa-2020-annual-meeting) in New Orleans, and here are some (but not all)1 of the talks / posters I found interesting and why
-<!-- more -->
-
-:
-
-
-
+I just came back from the [LSA 2020 Annual Meeting](https://www.linguisticsociety.org/event/lsa-2020-annual-meeting) in New Orleans, and here are some (but not all)[^1] of the talks / posters I found interesting and why.
 
 
   * Sluicing with complement coercion: An argument for focus-based semantic identity (Hadas Kotek)
@@ -94,4 +87,4 @@ I just came back from the [LSA 2020 Annual Meeting](https://www.linguisticsociet
 
 
 
-[1]: The order is arbitrary and should not matter. I wish I could mention more, as there were many more interesting ones, but I am unfortunately constrained by time and memory.
+[^1]: The order is arbitrary and should not matter. I wish I could mention more, as there were many more interesting ones, but I am unfortunately constrained by time and memory.
