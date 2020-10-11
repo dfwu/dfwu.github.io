@@ -24,7 +24,7 @@ author_profile: true
 
 ## Conference proceedings
 
-- to appear. *Whether* can pied-pipe. *Proceedings of NELS 50*. \[[paper](http://lingphil.mit.edu/papers/dfwu/NELS50_whether_v3.pdf)\]
+- 2020\. *Whether* can pied-pipe. *Proceedings of NELS 50*. \[[paper](http://lingphil.mit.edu/papers/dfwu/NELS50_whether_v3.pdf)\]
 - 2020\. Durational cues to stress and phrasing are preserved post-focally in English. *Proceedings of Speech Prosody 2020*. \[superceded by this paper\]
 - 2020\. Focus and penultimate vowel lengthening in Zulu. *Proceedings of Speech Prosody 2020.* with [Yadav Gowda](http://web.mit.edu/ysg/www/). \[[paper](http://lingphil.mit.edu/papers/dfwu/Zulu_prominence.pdf)\]
 - 2020\. Syntax of *either* in *either*...*or*... sentences. *Proceedings of NELS 49*. \[[paper](http://lingphil.mit.edu/papers/dfwu/nels%20paper_v2.pdf)\]
