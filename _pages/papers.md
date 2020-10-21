@@ -13,13 +13,13 @@ author_profile: true
 
 ## Work in progress
 
-- in prep. Durational cues to phrasing are preserved post-focally in English. \[paper\]
+- submitted. Phrasing and prominence: A case study of the post-focal context in English. \[paper\]
 - submitted. Island violations in stripping constructions. \[paper\]
 - under revision. Syntax of *either* in *either*...*or*... sentences. \[[paper](https://ling.auf.net/lingbuzz/004430/current.pdf?_s=72wA37mPfWIVeZUL)\]
 
 ## Journal articles
 
-- accepted. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Paper_20200819_singlespaced.pdf)\]
+- to appear. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Paper_20200819_singlespaced.pdf)\]
 - 2019\. Inducing and blocking labeling. *Glossa* *4 (1)*:141. with [Shigeru Miyagawa](http://www.shigerumiyagawa.com/) and [Masatoshi Koizumi](https://www.sal.tohoku.ac.jp/en/research/researcher/profile/---id-35.html). \[[doi](https://doi.org/10.5334/gjgl.923)\]
 
 ## Conference proceedings
