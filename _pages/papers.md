@@ -14,7 +14,7 @@ author_profile: true
 ## Work in progress
 
 - submitted. Phrasing and prominence: A case study of the post-focal context in English. \[[paper](http://lingphil.mit.edu/papers/dfwu/JPhon_submission_20201021.pdf)\]
-- submitted. Island violations in stripping constructions. \[paper\]
+- submitted. Island violations in stripping constructions. \[[paper](http://lingphil.mit.edu/papers/dfwu/Squib_submission.pdf)]
 - under revision. Syntax of *either* in *either*...*or*... sentences. \[[paper](https://ling.auf.net/lingbuzz/004430/current.pdf?_s=72wA37mPfWIVeZUL)\]
 
 ## Journal articles
