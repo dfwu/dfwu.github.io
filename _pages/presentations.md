@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- 2021\. Evasion strategies save apparent island violations in stripping. Poster at LSA 95.
+- 2021\. Evasion strategies save apparent island violations in stripping. Poster at LSA 95. \[[poster](http://lingphil.mit.edu/papers/dfwu/LSA_poster.pdf)\]
 - 2020\. There is no post-focal de-phrasing in English. Poster at AMP 2020. \[[poster](http://lingphil.mit.edu/papers/dfwu/AMP%20poster.pdf)\]
 - 2020\. Durational cues to stress and phrasing are preserved post-focally in English. Presentation at Speech Prosody 2020. \[[video](https://www.youtube.com/watch?v=UWPkTSX-c5k&ab_channel=SpeechProsody2020)\]
 - 2020\. Focus and penultimate vowel lengthening in Zulu. with [Yadav Gowda][ygowda]. Presentation at Speech Prosody 2020. \[[video](https://www.youtube.com/watch?v=SLQTE28Km1Y)\]
