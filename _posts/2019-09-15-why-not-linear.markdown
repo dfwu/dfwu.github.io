@@ -17,7 +17,7 @@ tags:
 - neural networks
 ---
 
-MIT Linguistics is offering a new course this semester called "Linguistics for Researchers in Computer Science, Cognitive Science, and Related Fields". As the TA, I gave an opening speech at the beginning of the first class. Here is my speech, and I added at the end additional thoughts that weren't put into the speech:
+MIT Linguistics is offering a new course this semester called "Linguistics for Researchers in Computer Science, Cognitive Science, and Related Fields". As the TA, I gave an opening speech at the beginning of the first class. Here is my speech <!-- more -->, and I added at the end additional thoughts that weren't put into the speech:
 
 Hi everyone! Welcome to the class. Whether your research is in Natural Language Processing, cognitive science or any other language-related topic, you may find some of these topics interesting: what do speakers know about their native language? Can we find a general theory to characterize this linguistic knowledge? How is this knowledge learned? For cognitive scientists who study language, these are the topics of primary interest. For NLPers who want to find an efficient algorithm for processing human languages, knowing about the linguistic features of human languages would be helpful, too. These are precisely the topics of this class, so you are in the right place.
 

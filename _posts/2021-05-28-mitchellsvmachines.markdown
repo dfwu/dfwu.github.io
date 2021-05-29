@@ -3,6 +3,15 @@ author: dfwu
 comments: true
 date: 2021-05-28
 title: Why the movie "The Mitchells vs. The Machines" owes an apology to all the victims of abusive parents
+categories:
+- Non-linguistics
+- Movies
+tags:
+- movies
+- emotional abuse
+- intimate relationships
+- controlling parents
+- narcissistic parents
 ---
 
 Despite its great effects and beautiful graphics, the movie "The Mitchells vs. The Machines" sends a wrong message. <!-- more -->
