@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+- 2022\. Bipartite syntax of negation in corrective *but* sentences. Talk at LSA 96.
+- 2022\. Prosodic evidence for syntax in biased questions in Mandarin. Poster at LSA 96. with [Boer Fu][bfu].
+- 2022\. Numeral allomorphy of ‘one’ and ‘two’ in Mandarin Chinese. Poster at LSA 96. with [Boer Fu][bfu].
+- 2022\. Competence meets performance: New perspectives on information structure. Organized session at LSA 96. with Sasha Calhoun, Jesse Harris, Andrew Hedding, Morwenna Hoeks, Beste Kamali, Amanda Rysling, Maziar Toosarvandani and Mengzhu Yan.
+- 2021\. Syntax of negation in corrective *but* sentences. Talk at NELS 52.
 - 2021\. Prosodic evidence for an ellipsis-based approach to *either…or…* sentences. Poster at WCCFL 39. \[[poster](http://lingphil.mit.edu/papers/dfwu/Wu_99.pdf)\]
 - 2021\. Evasion strategies save apparent island violations in stripping. Poster at LSA 95. \[[poster](http://lingphil.mit.edu/papers/dfwu/LSA_poster.pdf)\]
 - 2020\. There is no post-focal de-phrasing in English. Poster at AMP 2020. \[[poster](http://lingphil.mit.edu/papers/dfwu/AMP%20poster.pdf)\]
@@ -22,5 +27,6 @@ author_profile: true
 - 2018\. English expletives *there* and *it* originate low: Evidence from ellipsis. Poster at WCCFL 36.
 - 2018\. A new analysis and prediction about Lubukusu agreeing complementizers. with [Elise Newman][enewman]. Talk at LSA 92.
 
+[bfu]: https://www.fuboer.net/
 [ygowda]: http://web.mit.edu/ysg/www/
 [enewman]: https://esnewman.github.io/elisenewman/
