@@ -18,7 +18,7 @@ author_profile: true
 
 ## Journal articles
 
-- accepted. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[paper](https://ling.auf.net/lingbuzz/004430/current.pdf?_s=ptin2PJK9sVdC8UW)\]
+- 2021\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[paper](https://rdcu.be/czo3C)\]
 - 2021\. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[doi](https://doi.org/10.1162/ling_a_00410)\]
 - 2019\. Inducing and blocking labeling. *Glossa* *4 (1)*:141. with [Shigeru Miyagawa](http://www.shigerumiyagawa.com/) and [Masatoshi Koizumi](https://www.sal.tohoku.ac.jp/en/research/researcher/profile/---id-35.html). \[[doi](https://doi.org/10.5334/gjgl.923)\]
 
