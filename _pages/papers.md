@@ -13,17 +13,21 @@ author_profile: true
 
 ## Work in progress
 
-- in prep. Phrasing and prominence: A case study of the post-focal context in English. \[[paper](http://lingphil.mit.edu/papers/dfwu/JPhon_submission_20201021.pdf)\]
-- in prep. Island violations in stripping constructions. \[[paper](http://lingphil.mit.edu/papers/dfwu/Stripping squib_20210702_b&w.pdf)]
+- under revision. Elided material is present in prosodic structure. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
+- submitted. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. \[[paper](https://dfwu.github.io/files/yi_paper.pdf)\]
 
 ## Journal articles
 
-- 2021\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[paper](https://rdcu.be/czo3C)\]
-- 2021\. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[doi](https://doi.org/10.1162/ling_a_00410)\]
+- 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
+- 2022\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-021-09523-0)\]
+- 2022\. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[doi](https://doi.org/10.1162/ling_a_00410)\]
 - 2019\. Inducing and blocking labeling. *Glossa* *4 (1)*:141. with [Shigeru Miyagawa](http://www.shigerumiyagawa.com/) and [Masatoshi Koizumi](https://www.sal.tohoku.ac.jp/en/research/researcher/profile/---id-35.html). \[[doi](https://doi.org/10.5334/gjgl.923)\]
 
 ## Conference proceedings
 
+- to appear\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*.
+- to appear\. Elided material is present in prosodic structure.  *Proceedings of CLS 59*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_CLS_proceedings.pdf)\]
+- 2022\. Syntax of negation in corrective *but* sentences.  *Proceedings of NELS 52*. \[[paper](https://dfwu.github.io/files/syntax_corrective_butNELS_proceedings.pdf)\]
 - 2021\. Prosodic evidence for an ellipsis-based approach to *either*...*or*... sentences.  *Proceedings of WCCFL 39*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Wu_PosterPaper.pdf)\]
 - 2021\. There is no post-focal de-phrasing in English. *Proceedings of AMP 2020*. \[[paper](https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/download/4930/4623)\]
 - 2020\. *Whether* can pied-pipe. *Proceedings of NELS 50*. \[[paper](http://lingphil.mit.edu/papers/dfwu/NELS50_whether_v3.pdf)\]
