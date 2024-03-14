@@ -10,7 +10,7 @@ I am a Fellow by Examination (equivalent to a postdoc) at Magdalen College at th
 
 I think theoretical linguistics should connect and interact with fields that explore the same questions using different methods, such as experimental linguistics and computational linguistics. I also think that linguistics is ultimately a part of cognitive science, and hope that all the proposals I make about human language are cognitively realistic, learnable and evolvable.
 
-In efforts to bridge linguistics, cognitive science and computer science, I will co-organize a workshop at Oxford called "Does ChatGPT know language as humans do?", and  created a linguistics course for cognitive scientists and computer scientists at MIT in Fall 2019.  
+In efforts to bridge linguistics, cognitive science and computer science, I co-organized a [workshop](https://www.ling-phil.ox.ac.uk/workshop-nlp-and-linguistics) at Oxford called "Does ChatGPT know language as humans do?", and  created a linguistics course for cognitive scientists and computer scientists at MIT in Fall 2019.  
 
 [1]: https://complang.mit.edu/
 [2]: http://lingphil.mit.edu/papers/dfwu/Knowledge%20of%20language%20and%20how%20it%20is%20put%20into%20use.pdf
