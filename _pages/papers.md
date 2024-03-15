@@ -25,7 +25,7 @@ author_profile: true
 
 ## Conference proceedings
 
-- to appear\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*.
+- to appear\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*. \[[paper](https://dfwu.github.io/files/SuB28_Proceedings_paper___whereas.pdf)\]
 - to appear\. Elided material is present in prosodic structure.  *Proceedings of CLS 59*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_CLS_proceedings.pdf)\]
 - 2022\. Syntax of negation in corrective *but* sentences.  *Proceedings of NELS 52*. \[[paper](https://dfwu.github.io/files/syntax_corrective_butNELS_proceedings.pdf)\]
 - 2021\. Prosodic evidence for an ellipsis-based approach to *either*...*or*... sentences.  *Proceedings of WCCFL 39*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Wu_PosterPaper.pdf)\]
