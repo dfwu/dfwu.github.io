@@ -14,10 +14,10 @@ author_profile: true
 ## Work in progress
 
 - under revision. Elided material is present in prosodic structure. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
-- submitted. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. \[[paper](https://dfwu.github.io/files/yi_paper.pdf)\]
 
 ## Journal articles
 
+- accepted\. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. *Journal of East Asian Linguistics*. \[[paper](https://dfwu.github.io/files/yi_paper.pdf)\]
 - 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
 - 2022\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-021-09523-0)\]
 - 2022\. Why \**if or not* but ✓*whether or not*. *Linguistic Inquiry*. \[[doi](https://doi.org/10.1162/ling_a_00410)\]
@@ -25,8 +25,8 @@ author_profile: true
 
 ## Conference proceedings
 
-- to appear\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*. \[[paper](https://dfwu.github.io/files/SuB28_Proceedings_paper___whereas.pdf)\]
-- to appear\. Elided material is present in prosodic structure.  *Proceedings of CLS 59*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_CLS_proceedings.pdf)\]
+- 2024\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*. \[[paper](https://dfwu.github.io/files/SuB28_Proceedings_paper___whereas.pdf)\]
+- 2024\. Elided material is present in prosodic structure.  *Proceedings of CLS 59*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_CLS_proceedings.pdf)\]
 - 2022\. Syntax of negation in corrective *but* sentences.  *Proceedings of NELS 52*. \[[paper](https://dfwu.github.io/files/syntax_corrective_butNELS_proceedings.pdf)\]
 - 2021\. Prosodic evidence for an ellipsis-based approach to *either*...*or*... sentences.  *Proceedings of WCCFL 39*. \[[paper](http://lingphil.mit.edu/papers/dfwu/Wu_PosterPaper.pdf)\]
 - 2021\. There is no post-focal de-phrasing in English. *Proceedings of AMP 2020*. \[[paper](https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/download/4930/4623)\]

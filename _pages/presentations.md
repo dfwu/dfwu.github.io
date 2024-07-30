@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+- 2024\. Why *not numeral NP* requires *but* but not *not many NP*. Talk at SuB 29.
+- 2024\. Corrective markers *bing* and *you* in Mandarin Chinese. Talk at SuB 29 Workshop ‘Evidentials in non-canonical speech acts’.
+- 2024\. Prosody of corrective *but* sentences in English. Poster at Speech Prosody 2024.
 - 2024\. The absolute and contextual forms of ‘one’ and ‘two’ in Mandarin Chinese. Poster at WCCFL 42.
 - 2023\. Semantic opposition coordination: An argument for question settlement. Talk at SuB 28.
 - 2023\. Prosodic evidence for the recursive prosodic structure of corrective but sentences. Talk at 30mfm.
@@ -29,7 +32,6 @@ author_profile: true
 - 2020\. Clitic climbing and linear adjacency in Wolof. with [Yadav Gowda][ygowda]. Talk at LSA 94. \[[handout](http://web.mit.edu/ysg/www/files/2020/LSA2020-Wolof.pdf)\]
 - 2019\. Why \**if or not* but ✓*whether or not*. Poster at NELS 50. \[[poster](http://lingphil.mit.edu/papers/dfwu/NELS%20poster_v2.pdf)\]
 - 2018\. A copy-based approach to *either* in *either*...*or*... sentences. Poster at NELS 49. \[[poster](http://lingphil.mit.edu/papers/dfwu/NELS%20poster_v3.pdf)\]
-- 2018\. Deriving Case Theory: Issues of \[-N\]/\[+N\], ECM. Invited talk at Workshop on Case Theory and Labeling of Structures at The University of Tokyo.
 - 2018\. English expletives *there* and *it* originate low: Evidence from ellipsis. Poster at WCCFL 36.
 - 2018\. A new analysis and prediction about Lubukusu agreeing complementizers. with [Elise Newman][enewman]. Talk at LSA 92.
 
