@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+- 2025\. Negation and progressive aspect in Persian. with [Setayesh Dashti][sdashti] and [Daniel Altshuler][daltshuler]. Talk at the 4th North American Conference on Iranian Linguistics (NACIL 4). 
+- 2025\. Two paths to correction. Poster at GLOW 47.
 - 2024\. Why *not numeral NP* requires *but* but not *not many NP*. Talk at SuB 29.
 - 2024\. Corrective markers *bing* and *you* in Mandarin Chinese. Talk at SuB 29 Workshop ‘Evidentials in non-canonical speech acts’.
 - 2024\. Prosody of corrective *but* sentences in English. Poster at Speech Prosody 2024.
@@ -38,3 +40,5 @@ author_profile: true
 [bfu]: https://www.fuboer.net/
 [ygowda]: http://web.mit.edu/ysg/www/
 [enewman]: https://esnewman.github.io/elisenewman/
+[sdashti]: https://sites.google.com/view/setayeshdashti/home
+[daltshuler]: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-daniel-altshuler/
