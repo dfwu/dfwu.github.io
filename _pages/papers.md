@@ -14,7 +14,7 @@ author_profile: true
 ## Work in progress
 
 - under revision. Elided material is present in prosodic structure. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
-- submitted. Aspect and negation. with [Daniel Altshuler][daltshuler] and [Setayesh Dashti][sdashti]
+- submitted. Aspect and negation. with [Daniel Altshuler](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-daniel-altshuler/) and [Setayesh Dashti](https://sites.google.com/view/setayeshdashti/home)
 - in prep. Constituent negation requires entailment of an alternative. \[[paper](https://lingbuzz.net/lingbuzz/008781/current.pdf?_s=m8XqyLUr99W008rN)\]
 - in prep. Corrective markers across languages. \[[paper](https://dfwu.github.io/files/SuB29_Paper_bing.pdf)\]
 - in prep. Phrasing and prominence: A case study of the post-focal context in English. \[[paper](https://dfwu.github.io/files/post-focal_phrasing_prominence.pdf)\]
