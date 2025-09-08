@@ -13,16 +13,16 @@ author_profile: true
 
 ## Work in progress
 
-- under revision. Elided material is present in prosodic structure. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
-- submitted. Aspect and negation. with [Daniel Altshuler](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-daniel-altshuler/) and [Setayesh Dashti](https://sites.google.com/view/setayeshdashti/home)
+- submitted. Corrective markers across languages. \[[paper](https://lingbuzz.net/lingbuzz/009232/current.pdf?_s=sRNx5K0AaUvJihfd)\]
+- in revision. Aspect and negation. with [Daniel Altshuler](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-daniel-altshuler/) and [Setayesh Dashti](https://sites.google.com/view/setayeshdashti/home)
 - in prep. Constituent negation requires entailment of an alternative. \[[paper](https://lingbuzz.net/lingbuzz/008781/current.pdf?_s=m8XqyLUr99W008rN)\]
-- in prep. Corrective markers across languages. \[[paper](https://dfwu.github.io/files/SuB29_Paper_bing.pdf)\]
 - in prep. Phrasing and prominence: A case study of the post-focal context in English. \[[paper](https://dfwu.github.io/files/post-focal_phrasing_prominence.pdf)\]
 - in prep. Semantic opposition coordination: An argument for good-questionhood. \[[paper](https://ling.auf.net/lingbuzz/008315/current.pdf?_s=6FDoYnoDaNIke5ir)\]
 
 ## Journal articles
 
 - accepted with minor revisions\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[paper](https://ling.auf.net/lingbuzz/008316/current.pdf?_s=L-c201r_-ePGQiOS)\]
+- accepted. Elided material is present in prosodic structure. *Glossa*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
 - 2024\. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. *Journal of East Asian Linguistics*. \[[doi](https://doi.org/10.1007/s10831-024-09281-1)\]
 - 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
 - 2022\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-021-09523-0)\]
