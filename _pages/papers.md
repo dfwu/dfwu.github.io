@@ -21,8 +21,8 @@ author_profile: true
 
 ## Journal articles
 
-- accepted with minor revisions\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[paper](https://ling.auf.net/lingbuzz/008316/current.pdf?_s=L-c201r_-ePGQiOS)\]
 - accepted. Elided material is present in prosodic structure. *Glossa*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
+- 2025\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-025-09689-x)\]
 - 2024\. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. *Journal of East Asian Linguistics*. \[[doi](https://doi.org/10.1007/s10831-024-09281-1)\]
 - 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
 - 2022\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-021-09523-0)\]
@@ -31,8 +31,9 @@ author_profile: true
 
 ## Conference proceedings
 
-- to appear\. Corrective markers *bing* and *you* in Mandarin Chinese.  *Proceedings of SuB 29*. 
-- to appear\. Why *not numeral NP* requires & but not *not many NP*.  *Proceedings of SuB 29*. 
+- to appear\. Two paths to correction.  *Proceedings of GLOW 47*.
+- 2025\. Corrective markers *bing* and *you* in Mandarin Chinese.  *Proceedings of SuB 29*. \[[doi](https://doi.org/10.18148/sub/2024.v29.1306)\]
+- 2025\. Why *not numeral NP* requires & but not *not many NP*.  *Proceedings of SuB 29*. \[[doi](https://doi.org/10.18148/sub/2024.v29.1305)\]
 - 2024\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*. \[[paper](https://dfwu.github.io/files/SuB28_Proceedings_paper___whereas.pdf)\]
 - 2024\. Prosody of corrective but sentences in English.  *Proceedings of Speech Prosody 2024*. \[[paper](https://www.isca-archive.org/speechprosody_2024/wu24d_speechprosody.pdf)\]
 - 2024\. Elided material is present in prosodic structure.  *Proceedings of CLS 59*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_CLS_proceedings.pdf)\]
