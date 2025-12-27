@@ -21,8 +21,8 @@ author_profile: true
 
 ## Journal articles
 
-- accepted. Elided material is present in prosodic structure. *Glossa*. \[[paper](https://dfwu.github.io/files/prosody_ellipsis_submission.pdf)\]
 - 2025\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-025-09689-x)\]
+- 2025\. Elided material is present in prosodic structure. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.11169)\]
 - 2024\. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. *Journal of East Asian Linguistics*. \[[doi](https://doi.org/10.1007/s10831-024-09281-1)\]
 - 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
 - 2022\. Syntax of *either* in *either*...*or*... sentences. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-021-09523-0)\]
