@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+- 2026\. Arguments for eliminating syntactic categories based on coordination. Talk at The Role of Semantics in Syntax Workshop, Magdalen College, University of Oxford. 
+- 2025\. Polar particles in English, Mandarin and Yixing. with [[Xuhui Hu](https://sfl.pku.edu.cn/en/People/Academicfaculty/InstituteofForeignLinguisticsandAppliedLinguistics/74fb6dd93c3446ac8920587628316e52.htm)\]. Talk at the Annual Meeting of the Linguistics Association of Great Britain and Northern Ireland (LAGB). 
 - 2025\. Negation and progressive aspect in Persian. with [Setayesh Dashti][sdashti] and [Daniel Altshuler][daltshuler]. Talk at the 4th North American Conference on Iranian Linguistics (NACIL 4). 
 - 2025\. Two paths to correction. Poster at GLOW 47.
 - 2024\. Why *not numeral NP* requires *but* but not *not many NP*. Talk at SuB 29.

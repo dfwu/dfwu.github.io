@@ -13,7 +13,7 @@ author_profile: true
 
 ## Work in progress
 
-- submitted. Corrective markers across languages. \[[paper](https://lingbuzz.net/lingbuzz/009232/current.pdf?_s=sRNx5K0AaUvJihfd)\]
+- in prep. Corrective markers across languages. \[[paper](https://lingbuzz.net/lingbuzz/009232/current.pdf?_s=sRNx5K0AaUvJihfd)\]
 - in revision. Aspect and negation. with [Daniel Altshuler](https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/professor-daniel-altshuler/) and [Setayesh Dashti](https://sites.google.com/view/setayeshdashti/home)
 - in prep. Constituent negation requires entailment of an alternative. \[[paper](https://lingbuzz.net/lingbuzz/008781/current.pdf?_s=m8XqyLUr99W008rN)\]
 - in prep. Phrasing and prominence: A case study of the post-focal context in English. \[[paper](https://dfwu.github.io/files/post-focal_phrasing_prominence.pdf)\]
@@ -21,7 +21,7 @@ author_profile: true
 
 ## Journal articles
 
-- 2025\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-025-09689-x)\]
+- 2026\. Syntax of negation in corrective but sentences: Evidence from syntax-semantics and prosody. *Natural Language and Linguistic Theory*. \[[doi](https://doi.org/10.1007/s11049-025-09689-x)\]
 - 2025\. Elided material is present in prosodic structure. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.11169)\]
 - 2024\. Allomorphy of numerals ‘one’ and ‘two’ in Mandarin Chinese. *Journal of East Asian Linguistics*. \[[doi](https://doi.org/10.1007/s10831-024-09281-1)\]
 - 2022\. Island violations in stripping constructions. *Glossa*. \[[doi](https://doi.org/10.16995/glossa.7895)\]
@@ -31,7 +31,7 @@ author_profile: true
 
 ## Conference proceedings
 
-- to appear\. Two paths to correction.  *Proceedings of GLOW 47*.
+- 2026\. Two paths to correction.  *Proceedings of GLOW 47*.
 - 2025\. Corrective markers *bing* and *you* in Mandarin Chinese.  *Proceedings of SuB 29*. \[[doi](https://doi.org/10.18148/sub/2024.v29.1306)\]
 - 2025\. Why *not numeral NP* requires & but not *not many NP*.  *Proceedings of SuB 29*. \[[doi](https://doi.org/10.18148/sub/2024.v29.1305)\]
 - 2024\. Semantic opposition coordination: An argument for question settlement.  *Proceedings of SuB 28*. \[[paper](https://dfwu.github.io/files/SuB28_Proceedings_paper___whereas.pdf)\]
